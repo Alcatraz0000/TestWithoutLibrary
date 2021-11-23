@@ -23,14 +23,6 @@ public class FXMLDocumentController implements Initializable {
     
     @FXML
     private void handleButtonAction(ActionEvent event) {
-        System.out.println("You clicked me if you not i send you an hot image!");
-        System.out.println("You clicked me if you not i send you an hot image!");
-        System.out.println("You clicked me if you not i send you an hot image!");
-        System.out.println("You clicked me if you not i send you an hot image!");
-        System.out.println("You clicked me if you not i send you an hot image!");
-        System.out.println("You clicked me if you not i send you an hot image!");
-        System.out.println("ME CLICCAT STRUNZ");
-        label.setText("Hello World! gruppo twelve");
         label.setText("Ciao da Cami");
     }
     
